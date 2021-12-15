@@ -9,3 +9,7 @@ The code was working in 2017 but if YT changed the HTML layout you will need to 
 Otherwise, I suggest an API solution:
 
 https://youtu.be/bePgZIXHSkM
+
+If you find it useful and want to buy me a coffee or a beer:
+
+https://www.paypal.me/cbm80amiga
